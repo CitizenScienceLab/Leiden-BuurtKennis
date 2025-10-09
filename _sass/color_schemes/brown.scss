@@ -1,0 +1,19 @@
+// brown.scss — custom color scheme for Leiden BuurtKennis
+
+// Accent colors
+$body-text-color: #2b1f1a;     // main text (dark brown-gray)
+$body-heading-color: #3b2a1d;  // headings (slightly darker)
+$link-color: #8b5e3c;          // main brown accent (replace #8b5e3c with your preferred tone)
+$link-hover-color: darken($link-color, 10%);
+$nav-child-link-color: #6e4b33;
+$btn-primary-color: #8b5e3c;
+
+// Backgrounds
+$sidebar-color: #f8f6f4;
+$background-color: #ffffff;
+$search-background-color: #ffffff;
+$table-background-color: #ffffff;
+
+// Border + highlights
+$border-color: #d8c9b3;
+$search-result-preview-color: #eae4da;
