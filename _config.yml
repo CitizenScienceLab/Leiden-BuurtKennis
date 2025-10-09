@@ -1,10 +1,11 @@
 title: "Leiden-BuurtKennis"
 description: "Public documentation of citizen science methods from Leiden Citizen Science Lab"
-theme: just-the-docs
+
+# Use the remote theme so GitHub Pages can find it
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 url: https://citizensciencelab.github.io/Leiden-BuurtKennis
 search_enabled: true
-
-# Optional nav links (you can remove this block if you like)
-aux_links:
-  "Citizen Science Lab":
-    - "https://www.universiteitleiden.nl/en/citizen-science-lab"
