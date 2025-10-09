@@ -4,4 +4,4 @@ Public documentation of methods from the BuurtKennis program (Citizen Science La
 
 👉 Live site: https://citizensciencelab.github.io/Leiden-BuurtKennis
 
-This repo uses **Just the Docs** (served by GitHub Pages—no local Ruby needed).
+This repo uses **Just the Docs**

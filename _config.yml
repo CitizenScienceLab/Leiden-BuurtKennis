@@ -9,3 +9,7 @@ plugins:
 
 url: https://citizensciencelab.github.io/Leiden-BuurtKennis
 search_enabled: true
+
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
