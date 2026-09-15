@@ -1,0 +1,33 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BuurtKennis Methode
+  structure:
+    - type: section
+      key: section-1
+      title: BuurtKennis documentatie
+      path: buurtkennis-docs
+      description: ""
+      icon: clipboard-list
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Docs
+          path: docs
+          default: true
+          content:
+            directory: ./buurtkennis-docs/docs
+            language: nl
+    - type: section
+      key: section-2
+      title: Methodieken
+      path: methodieken
+      icon: clipboard-list
+      children:
+        - type: space
+          key: space-2
+          title: Methodieken
+          path: untitled
+          default: true
+          content:
+            directory: ./methodieken/untitled
