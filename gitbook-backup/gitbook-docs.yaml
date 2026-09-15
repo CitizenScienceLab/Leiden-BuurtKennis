@@ -30,4 +30,4 @@ site:
           path: untitled
           default: true
           content:
-            directory: ./methodieken
+            directory: null
