@@ -1,2 +1,0 @@
-# Ophalen bekende kwesties
-
